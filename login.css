@@ -1,0 +1,42 @@
+.data {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-top: 70px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.data input {
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: lighter;
+}
+
+button {
+    border-radius: 6px;
+    background-color: peru;
+    color: black;
+    font-size: 30px;
+}
+
+body {
+    background-color: darkslategrey;
+}
+
+#email:hover {
+    cursor: pointer;
+    font-size: 15px;
+
+}
+
+#ps:hover {
+    cursor: pointer;
+    font-size: 15px
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 30px;
+}

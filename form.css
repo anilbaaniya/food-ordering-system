@@ -1,0 +1,54 @@
+.container
+{
+   
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-top: 70px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+}
+.box
+{
+    border: solid;
+    
+    margin:30px 450px;
+    padding: 10px;
+    background-color: gray;
+}
+.container input {
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: lighter;
+}
+button
+{
+    border-radius: 6px;
+    color: black;
+}
+body
+{
+   background-color: darkslategrey; 
+}
+h1
+{
+    margin-top: 0%;
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+a
+{
+    font-size: 20px;
+}
+::placeholder
+{
+    padding-left: 20px;
+    font-style: italic;
+}
+.detail:hover{
+    font-size: 15px;
+    cursor: pointer;
+}

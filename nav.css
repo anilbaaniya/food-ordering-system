@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bar{
+
+    overflow: hidden;
+    display: flex;
+    width: 100%;
+
+}
+.bar .left li{
+    float: left;
+    list-style: none;
+    margin: 5px 6px;
+    
+}
+.bar .left
+{
+    width: 70%;
+    background-color: black;
+}
+.bar .right
+{
+    width: 30%;
+    background-color: black;
+    float: left;
+}
+.bar .right li{
+    float: right;
+    list-style: none;
+    padding-right: 20px;
+    padding-top: 5px; ;
+}
+.bar li a{
+    font-size: 25px;
+    padding: 30px;
+    text-decoration: none;
+    color: white;
+}
+body
+{
+    background-image: url(https://img.freepik.com/free-photo/top-view-sliced-bell-peppers-different-colored-salad-inside-plate-dark-background_140725-58276.jpg?w=740&t=st=1707219744~exp=1707220344~hmac=1f4f97e29b39fa111aaa56a8d117e0be11d455aa1a8e01ec5da04d9be33c647c);
+    background-repeat: no-repeat;
+    background-size:cover;
+} 
+p{
+    margin-top: 150px;
+    margin-left:450px;
+    color: white;
+    font-size: 30px;
+}

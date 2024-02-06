@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#para
+{
+    padding-left: 550px;
+    font-size: 30px;
+    background-color:rgb(31, 19, 109);
+    color: white;
+}
+#suggest
+{
+    margin-left: 900px;
+    margin-top: 20px;
+    background-color: azure;
+    
+} 
+#par
+{
+    padding-left: 900px;
+    margin-top: 35px;
+    font-size: 25px;
+}
+.container input{
+    padding-left: 8px;
+    font-size: 15px;
+
+}
+body{
+    background-image: url(https://media.gettyimages.com/id/532256370/vector/voting.jpg?s=2048x2048&w=gi&k=20&c=fbiKVO3I7yCTKOgG5VHgA2xjkVmnRcmdgQDdyZTOMhE=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
